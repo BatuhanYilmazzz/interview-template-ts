@@ -1,0 +1,5 @@
+export enum ActionType {
+    FETCH_HOME = 'FETCH_HOME',
+    FETCH_HOME_SUCCESS = 'FETCH_HOME_SUCCESS',
+    FETCH_HOME_FAIL = 'FETCH_HOME_FAIL',
+}
